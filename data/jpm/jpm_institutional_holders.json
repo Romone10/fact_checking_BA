@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "Vanguard Group Inc",
+    "pctHeld": 0.0979,
+    "Shares": 272384047,
+    "Value": 63500894207,
+    "pctChange": 0.00090000004
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "Blackrock Inc.",
+    "pctHeld": 0.0743,
+    "Shares": 206688240,
+    "Value": 48185230400,
+    "pctChange": 0.0211
+  },
+  {
+    "index": 2,
+    "Date Reported": "2024-12-31",
+    "Holder": "State Street Corporation",
+    "pctHeld": 0.045700002,
+    "Shares": 127285458,
+    "Value": 29674059445,
+    "pctChange": 0.0095999995
+  },
+  {
+    "index": 3,
+    "Date Reported": "2024-12-31",
+    "Holder": "Morgan Stanley",
+    "pctHeld": 0.0247,
+    "Shares": 68844649,
+    "Value": 16049753357,
+    "pctChange": -0.0054
+  },
+  {
+    "index": 4,
+    "Date Reported": "2024-12-31",
+    "Holder": "Geode Capital Management, LLC",
+    "pctHeld": 0.021300001,
+    "Shares": 59220603,
+    "Value": 13806099466,
+    "pctChange": 0.015
+  },
+  {
+    "index": 5,
+    "Date Reported": "2024-12-31",
+    "Holder": "Bank of America Corporation",
+    "pctHeld": 0.0177,
+    "Shares": 49393655,
+    "Value": 11515143031,
+    "pctChange": -0.013099999
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "FMR, LLC",
+    "pctHeld": 0.0173,
+    "Shares": 48208266,
+    "Value": 11238793287,
+    "pctChange": -0.0025
+  },
+  {
+    "index": 7,
+    "Date Reported": "2024-12-31",
+    "Holder": "NORGES BANK",
+    "pctHeld": 0.0125,
+    "Shares": 34670579,
+    "Value": 8082752251,
+    "pctChange": -0.0644
+  },
+  {
+    "index": 8,
+    "Date Reported": "2024-12-31",
+    "Holder": "Northern Trust Corporation",
+    "pctHeld": 0.012200001,
+    "Shares": 33845676,
+    "Value": 7890442611,
+    "pctChange": 0.1539
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-12-31",
+    "Holder": "Capital International Investors",
+    "pctHeld": 0.0117999995,
+    "Shares": 32833483,
+    "Value": 7654470052,
+    "pctChange": -0.0278
+  }
+]
