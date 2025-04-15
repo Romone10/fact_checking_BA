@@ -1,0 +1,602 @@
+[
+  {
+    "id": "28252f77-b3aa-3e13-b1ee-65000975b68b",
+    "content": {
+      "id": "28252f77-b3aa-3e13-b1ee-65000975b68b",
+      "contentType": "STORY",
+      "title": "Is Acadian Asset Management Inc. (AAMI) Outperforming Other Finance Stocks This Year?",
+      "description": "",
+      "summary": "Here is how Acadian Asset Management (AAMI) and BNP Paribas SA (BNPQY) have performed compared to their sector so far this year.",
+      "pubDate": "2025-04-15T13:40:09Z",
+      "displayTime": "2025-04-15T13:40:09Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+            "width": 900,
+            "height": 600,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Kdbk5MmzfS7bSRdtJx6YgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/acadian-asset-management-inc-aami-134009430.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/acadian-asset-management-inc-aami-134009430.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "5e945b2a-b296-3437-abe7-49720d83681f",
+    "content": {
+      "id": "5e945b2a-b296-3437-abe7-49720d83681f",
+      "contentType": "STORY",
+      "title": "BNP Paribas Downgrades Projections for AXA IM Deal After Regulatory Guidance",
+      "description": "",
+      "summary": "The lender expects a higher capital impact and lower return on investment than initially projected for its acquisition of AXA Investment Managers, after the ECB clarified its regulatory stance.",
+      "pubDate": "2025-04-14T12:08:00Z",
+      "displayTime": "2025-04-14T12:08:00Z",
+      "isHosted": false,
+      "bypassModal": false,
+      "previewUrl": "https://finance.yahoo.com/m/5e945b2a-b296-3437-abe7-49720d83681f/bnp-paribas-downgrades.html",
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/wsj.com/7eed12da5a5e36f37bccec5cf9fe3e39",
+        "originalWidth": 1280,
+        "originalHeight": 640,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/YNb3UQW9aCoEuoz10Fzgug--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7eed12da5a5e36f37bccec5cf9fe3e39",
+            "width": 1280,
+            "height": 640,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/UI37WA3pjolbH88NTww8yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7eed12da5a5e36f37bccec5cf9fe3e39",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "The Wall Street Journal",
+        "url": "http://www.wsj.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.wsj.com/business/deals/bnp-paribas-expects-to-complete-purchase-of-axa-investment-managers-in-july-3d633a97?siteid=yhoof2&yptr=yahoo",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": null,
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "4fdc2a80-a578-3b8e-b93b-01d9283d9b2e",
+    "content": {
+      "id": "4fdc2a80-a578-3b8e-b93b-01d9283d9b2e",
+      "contentType": "STORY",
+      "title": "European Stocks at One-Year Low as Trump Vows China Tariff Hike",
+      "description": "",
+      "summary": "(Bloomberg) -- European stocks plunged to the lowest in more than a year on Monday, as President Donald Trump issued a fresh tariff threat to China and foreign leaders raced to the negotiating table to persuade him to lower his steep tariff charges. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsBoston Mayor Wu Embraces Trump Resistance as Cam",
+      "pubDate": "2025-04-07T16:04:11Z",
+      "displayTime": "2025-04-07T16:04:11Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d7dcb7f676e14098b3d124770f0f16ab",
+        "originalWidth": 2000,
+        "originalHeight": 1333,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/uRI9WBMhl.0mKCIJD4xJcw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/d7dcb7f676e14098b3d124770f0f16ab",
+            "width": 2000,
+            "height": 1333,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/jNLag.ObygGcz_O_3XpgkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/d7dcb7f676e14098b3d124770f0f16ab",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Bloomberg",
+        "url": "https://www.bloomberg.com/company"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/european-stocks-slide-december-2023-073452598.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/european-stocks-slide-december-2023-073452598.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "0ad4bf70-a2b5-301f-abcf-1df108e053fe",
+    "content": {
+      "id": "0ad4bf70-a2b5-301f-abcf-1df108e053fe",
+      "contentType": "STORY",
+      "title": "Copper’s Bull Run Turns to Rout as Reality of Tariffs Bites",
+      "description": "",
+      "summary": "(Bloomberg) -- Two weeks ago, copper prices were surging as traders warned that threatened US tariffs on the metal would squeeze global supplies. Now, bulls are confronting one of the market’s worst-ever selloffs as President Donald Trump’s broader trade war upends the outlook for demand.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Ho",
+      "pubDate": "2025-04-07T01:57:48Z",
+      "displayTime": "2025-04-07T01:57:48Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/a8941ce7b5b4c2aa9f9347a03f463c13",
+        "originalWidth": 1240,
+        "originalHeight": 788,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/rharz7nkgVXfdg7bNnYBig--~B/aD03ODg7dz0xMjQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_holding_pen_162/a8941ce7b5b4c2aa9f9347a03f463c13",
+            "width": 1240,
+            "height": 788,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/PElgL3F95DG_2YHFYlBbZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a8941ce7b5b4c2aa9f9347a03f463c13",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Bloomberg",
+        "url": "https://www.bloomberg.com/company"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/copper-bull-run-turns-rout-213131301.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/copper-bull-run-turns-rout-213131301.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "390aa4a4-78d1-38d2-8fbe-8893da5df7e1",
+    "content": {
+      "id": "390aa4a4-78d1-38d2-8fbe-8893da5df7e1",
+      "contentType": "STORY",
+      "title": "European Stocks Sink by Most Since August on Tariff Shock",
+      "description": "",
+      "summary": "(Bloomberg) -- European stocks suffered their worst day in eight months after US President Donald Trump announced the steepest tariffs in a century, including a 20% rate for the European Union.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersHousing Agency Aims to Relocate Its DC HeadquartersWhat Would ‘Transportation Abundance’ Look Lik",
+      "pubDate": "2025-04-03T15:50:48Z",
+      "displayTime": "2025-04-03T15:50:48Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-04/b37cb080-1065-11f0-87ff-1a503b44be86",
+        "originalWidth": 5500,
+        "originalHeight": 3667,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/WH4CwP9GIQa9bmxIAr65uQ--~B/aD0zNjY3O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/b37cb080-1065-11f0-87ff-1a503b44be86",
+            "width": 5500,
+            "height": 3667,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/hPBdIXHSB0sURUtMtckLqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/b37cb080-1065-11f0-87ff-1a503b44be86",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Bloomberg",
+        "url": "https://www.bloomberg.com/company"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/european-stocks-sink-trump-tariffs-071330028.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/european-stocks-sink-trump-tariffs-071330028.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "018b7f10-ebb7-3250-a910-67ca55873617",
+    "content": {
+      "id": "018b7f10-ebb7-3250-a910-67ca55873617",
+      "contentType": "STORY",
+      "title": "China Vows Retaliation as Trump Unleashes ‘Bazooka’ US Tariffs",
+      "description": "",
+      "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseChina vowed to retaliate against Donald Trump’s biggest tariffs yet, putting the world’s largest economies on a collision course that risk",
+      "pubDate": "2025-04-03T09:39:04Z",
+      "displayTime": "2025-04-03T09:39:04Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/1456bc7cc8c0fae404718d87400161f0",
+        "originalWidth": 2000,
+        "originalHeight": 1334,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/ajfDxmKN89YCbNlqsYwAlw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/1456bc7cc8c0fae404718d87400161f0",
+            "width": 2000,
+            "height": 1334,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/YdzIg21HcjGcX1VLSTv14Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/1456bc7cc8c0fae404718d87400161f0",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Bloomberg",
+        "url": "https://www.bloomberg.com/company"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/china-vows-retaliation-trump-unleashes-093904902.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/china-vows-retaliation-trump-unleashes-093904902.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "60d4e8f3-afae-3aed-8e6e-22f18397f975",
+    "content": {
+      "id": "60d4e8f3-afae-3aed-8e6e-22f18397f975",
+      "contentType": "STORY",
+      "title": "Best Momentum Stocks to Buy for April 3rd",
+      "description": "",
+      "summary": "VEEV, BNPQY and NECB made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on April 3, 2025.",
+      "pubDate": "2025-04-03T07:47:00Z",
+      "displayTime": "2025-04-03T07:47:00Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/zacks.com/5167b486bdd0f986aff26dac3fff825f",
+        "originalWidth": 620,
+        "originalHeight": 413,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/eiI8XvueFrWWvD.ii2bEoA--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5167b486bdd0f986aff26dac3fff825f",
+            "width": 620,
+            "height": 413,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/orYqaqiO5IRszzVtwWMYrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5167b486bdd0f986aff26dac3fff825f",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Zacks",
+        "url": "http://www.zacks.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/best-momentum-stocks-buy-april-074700470.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/best-momentum-stocks-buy-april-074700470.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "42d2dbfb-16c5-3f0a-8da1-98e9e94e1fa1",
+    "content": {
+      "id": "42d2dbfb-16c5-3f0a-8da1-98e9e94e1fa1",
+      "contentType": "STORY",
+      "title": "BNP slides as media reports Belgium considers selling stake",
+      "description": "",
+      "summary": "Traders attributed BNP's sharper selloff to the report of the possible Belgian sale.  Through its financial arm, SFPIM, Belgium currently holds a 5.6% stake in the French lender, following the group's acquisition of Fortis Bank Belgium in 2009.  Belgium is looking for options to fund its planned increase in defence spending, in order to reach 2% of its gross domestic product this year, the minimum level agreed among NATO allies.",
+      "pubDate": "2025-04-02T08:58:28Z",
+      "displayTime": "2025-04-02T08:58:28Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/4af9ae32ef3d613d4defd817cf3d7b94",
+        "originalWidth": 800,
+        "originalHeight": 528,
+        "caption": "Logo of BNP Paribas in Nantes",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/dw8dn9fP87Ycf4FyWaKbAw--~B/aD01Mjg7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/4af9ae32ef3d613d4defd817cf3d7b94",
+            "width": 800,
+            "height": 528,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/0yW25NsKNzDz68aV3yuy8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/4af9ae32ef3d613d4defd817cf3d7b94",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Reuters",
+        "url": "http://www.reuters.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/bnp-slides-media-reports-belgium-085828776.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/bnp-slides-media-reports-belgium-085828776.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "b435621d-b93f-3e4e-aa67-829cf4d7bf16",
+    "content": {
+      "id": "b435621d-b93f-3e4e-aa67-829cf4d7bf16",
+      "contentType": "STORY",
+      "title": "Oil Dips as Traders Assess Impact of Ceasefire on Russian Flows",
+      "description": "",
+      "summary": "(Bloomberg) -- Oil dipped, halting the longest rally in almost three months, after Ukrainian President Volodymyr Zelenskiy agreed to implement a partial truce, raising expectations that Russian crude will soon flow freely. Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Trump Slashed International Aid. Geneva Is Feeling the Impact.Chicago Transit Faces ‘Doomsday Scenario,’ Regional Agency SaysHow",
+      "pubDate": "2025-03-25T19:02:45Z",
+      "displayTime": "2025-03-25T19:02:45Z",
+      "isHosted": true,
+      "bypassModal": false,
+      "previewUrl": null,
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/bloomberg_markets_842/99e59a02d8d3462b08350d6ae0260625",
+        "originalWidth": 2000,
+        "originalHeight": 1335,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Tidk6zeKTlMagrcT6C9hAw--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/99e59a02d8d3462b08350d6ae0260625",
+            "width": 2000,
+            "height": 1335,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/JgJ86Su0_0xKokOJ3mx3Tg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/99e59a02d8d3462b08350d6ae0260625",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Bloomberg",
+        "url": "https://www.bloomberg.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://finance.yahoo.com/news/oil-holds-gains-trump-vows-233420648.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": {
+        "url": "https://finance.yahoo.com/news/oil-holds-gains-trump-vows-233420648.html",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  },
+  {
+    "id": "d488adde-cd61-3eac-9634-9e20a251d9b0",
+    "content": {
+      "id": "d488adde-cd61-3eac-9634-9e20a251d9b0",
+      "contentType": "STORY",
+      "title": "U.S. Tariffs Likely to Hit EU Growth More Than Inflation",
+      "description": "",
+      "summary": "U.S. tariffs are likely to impact growth faster than inflation and the European Central Bank will keep cutting interest rates as a result, at least in the short term, BNP Paribas Markets 360's Paul Hollingsworth said in a webinar.  \"The negative impact on growth stemming from tariffs and the uncertainty related [to them] is probably going to come quicker than the boost you are getting to the medium-term growth prospects from higher fiscal spending,\" the head of developed markets economics said.  BNP Paribas Markets 360 expects ECB rate cuts in April and June.",
+      "pubDate": "2025-03-18T10:13:59Z",
+      "displayTime": "2025-03-18T10:13:59Z",
+      "isHosted": false,
+      "bypassModal": false,
+      "previewUrl": "https://finance.yahoo.com/m/d488adde-cd61-3eac-9634-9e20a251d9b0/u-s-tariffs-likely-to-hit-eu.html",
+      "thumbnail": {
+        "originalUrl": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+        "originalWidth": 320,
+        "originalHeight": 65,
+        "caption": "",
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/_kc6REYMS1JrAuV5bYtjfA--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+            "width": 320,
+            "height": 65,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+            "width": 170,
+            "height": 128,
+            "tag": "170x128"
+          }
+        ]
+      },
+      "provider": {
+        "displayName": "Barrons.com",
+        "url": "http://www.barrons.com/"
+      },
+      "canonicalUrl": {
+        "url": "https://www.barrons.com/livecoverage/stock-market-today-031825/card/u-s-tariffs-likely-to-hit-eu-growth-more-than-inflation-zKH3EcPw8uFJ1tmnS5it?siteid=yhoof2&yptr=yahoo",
+        "site": "finance",
+        "region": "US",
+        "lang": "en-US"
+      },
+      "clickThroughUrl": null,
+      "metadata": {
+        "editorsPick": false
+      },
+      "finance": {
+        "premiumFinance": {
+          "isPremiumNews": false,
+          "isPremiumFreeNews": false
+        }
+      },
+      "storyline": null
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund",
+    "pctHeld": 0.028399998,
+    "Shares": 216278853,
+    "Value": 8293212882,
+    "pctChange": -0.023
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INDEX FUNDS-Vanguard 500 Index Fund",
+    "pctHeld": 0.0238,
+    "Shares": 180695553,
+    "Value": 6928771200,
+    "pctChange": 0.022
+  },
+  {
+    "index": 2,
+    "Date Reported": "2025-02-28",
+    "Holder": "Fidelity Concord Street Trust-Fidelity 500 Index Fund",
+    "pctHeld": 0.011,
+    "Shares": 83605309,
+    "Value": 3205845675,
+    "pctChange": 0.0045
+  },
+  {
+    "index": 3,
+    "Date Reported": "2025-02-28",
+    "Holder": "SPDR S&P 500 ETF TRUST",
+    "pctHeld": 0.0109,
+    "Shares": 82519080,
+    "Value": 3164194223,
+    "pctChange": 0.0137
+  },
+  {
+    "index": 4,
+    "Date Reported": "2025-03-31",
+    "Holder": "iShares Trust-iShares Core S&P 500 ETF",
+    "pctHeld": 0.0106,
+    "Shares": 80781525,
+    "Value": 3097567674,
+    "pctChange": 0.030199999
+  },
+  {
+    "index": 5,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INDEX FUNDS-Vanguard Value Index Fund",
+    "pctHeld": 0.0077,
+    "Shares": 58805559,
+    "Value": 2254899231,
+    "pctChange": -0.0050999997
+  },
+  {
+    "index": 6,
+    "Date Reported": "2025-02-28",
+    "Holder": "SELECT SECTOR SPDR TRUST-The Financial Select Sector SPDR Fund",
+    "pctHeld": 0.0066000004,
+    "Shares": 49924202,
+    "Value": 1914343586,
+    "pctChange": 0.0029
+  },
+  {
+    "index": 7,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INSTITUTIONAL INDEX FUNDS-Vanguard Institutional Index Fund",
+    "pctHeld": 0.0055,
+    "Shares": 42161754,
+    "Value": 1616692508,
+    "pctChange": -0.018
+  },
+  {
+    "index": 8,
+    "Date Reported": "2025-01-31",
+    "Holder": "VANGUARD SPECIALIZED FUNDS-Vanguard Dividend Appreciation Index Fund",
+    "pctHeld": 0.0047999998,
+    "Shares": 36620843,
+    "Value": 1404226269,
+    "pctChange": 0.0034
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-12-31",
+    "Holder": "JPMorgan Trust II-JPMorgan Equity Income Fund",
+    "pctHeld": 0.0038,
+    "Shares": 28634146,
+    "Value": 1097976363,
+    "pctChange": 0.0055
+  }
+]

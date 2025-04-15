@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund",
+    "pctHeld": 0.0292,
+    "Shares": 54891915,
+    "Value": 3600360503,
+    "pctChange": -0.0275
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INDEX FUNDS-Vanguard 500 Index Fund",
+    "pctHeld": 0.026500002,
+    "Shares": 49944675,
+    "Value": 3275871050,
+    "pctChange": 0.02
+  },
+  {
+    "index": 2,
+    "Date Reported": "2025-02-28",
+    "Holder": "Fidelity Concord Street Trust-Fidelity 500 Index Fund",
+    "pctHeld": 0.0126,
+    "Shares": 23686919,
+    "Value": 1553624930,
+    "pctChange": 0.0045
+  },
+  {
+    "index": 3,
+    "Date Reported": "2025-02-28",
+    "Holder": "SPDR S&P 500 ETF TRUST",
+    "pctHeld": 0.0124,
+    "Shares": 23368628,
+    "Value": 1532748224,
+    "pctChange": 0.013300001
+  },
+  {
+    "index": 4,
+    "Date Reported": "2025-03-31",
+    "Holder": "iShares Trust-iShares Core S&P 500 ETF",
+    "pctHeld": 0.012200001,
+    "Shares": 22900669,
+    "Value": 1502054795,
+    "pctChange": 0.0309
+  },
+  {
+    "index": 5,
+    "Date Reported": "2025-01-31",
+    "Holder": "PUTNAM LARGE CAP VALUE FUND",
+    "pctHeld": 0.008,
+    "Shares": 15028376,
+    "Value": 985711126,
+    "pctChange": 0.0478
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD INDEX FUNDS-Vanguard Value Index Fund",
+    "pctHeld": 0.007900001,
+    "Shares": 14920596,
+    "Value": 978641836,
+    "pctChange": -0.006
+  },
+  {
+    "index": 7,
+    "Date Reported": "2025-02-28",
+    "Holder": "SELECT SECTOR SPDR TRUST-The Financial Select Sector SPDR Fund",
+    "pctHeld": 0.0075,
+    "Shares": 14127566,
+    "Value": 926627002,
+    "pctChange": 0.0017
+  },
+  {
+    "index": 8,
+    "Date Reported": "2025-01-31",
+    "Holder": "Income Fund of America",
+    "pctHeld": 0.0072000003,
+    "Shares": 13495928,
+    "Value": 885197868,
+    "pctChange": 0.324
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-11-30",
+    "Holder": "MFS SERIES TRUST I-MFS Value Fund",
+    "pctHeld": 0.0070999996,
+    "Shares": 13297585,
+    "Value": 872188551,
+    "pctChange": -0.026800001
+  }
+]

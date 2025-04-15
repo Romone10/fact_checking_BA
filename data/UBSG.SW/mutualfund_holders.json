@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2025-01-31",
+    "Holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+    "pctHeld": 0.012999999,
+    "Shares": 45045074,
+    "Value": 1045045751,
+    "pctChange": 0.0064
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "Dodge & Cox Funds-Dodge & Cox International Stock Fund",
+    "pctHeld": 0.0123000005,
+    "Shares": 42679442,
+    "Value": 990163086,
+    "pctChange": 0.0
+  },
+  {
+    "index": 2,
+    "Date Reported": "2024-12-31",
+    "Holder": "Artisan Partners Funds Inc.-Artisan International Value Fund",
+    "pctHeld": 0.0109,
+    "Shares": 37654896,
+    "Value": 873593615,
+    "pctChange": -0.0117
+  },
+  {
+    "index": 3,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+    "pctHeld": 0.008,
+    "Shares": 27785642,
+    "Value": 644626915,
+    "pctChange": 0.012999999
+  },
+  {
+    "index": 4,
+    "Date Reported": "2024-12-31",
+    "Holder": "EUROPACIFIC GROWTH FUND",
+    "pctHeld": 0.0064999997,
+    "Shares": 22375109,
+    "Value": 519102545,
+    "pctChange": 0.0
+  },
+  {
+    "index": 5,
+    "Date Reported": "2025-02-28",
+    "Holder": "iShares Trust-iShares Core MSCI EAFE ETF",
+    "pctHeld": 0.006,
+    "Shares": 20726875,
+    "Value": 480863515,
+    "pctChange": 0.0034999999
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "Dodge & Cox Funds-Dodge & Cox Stock Fund",
+    "pctHeld": 0.0049,
+    "Shares": 16907300,
+    "Value": 392249372,
+    "pctChange": -0.001
+  },
+  {
+    "index": 7,
+    "Date Reported": "2024-11-30",
+    "Holder": "MFS SERIES TRUST X-MFS International Intrinsic Value Fund",
+    "pctHeld": 0.0038,
+    "Shares": 13257711,
+    "Value": 307578905,
+    "pctChange": 0.0
+  },
+  {
+    "index": 8,
+    "Date Reported": "2024-12-31",
+    "Holder": "MFS Series Trust XVII-MFS International Equity Fund",
+    "pctHeld": 0.0038,
+    "Shares": 13106717,
+    "Value": 304075844,
+    "pctChange": -0.0405
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-12-31",
+    "Holder": "INVESTMENT MANAGERS SERIES TRUST-WCM Focused International Growth Fund",
+    "pctHeld": 0.0033000002,
+    "Shares": 11256787,
+    "Value": 261157466,
+    "pctChange": -0.0802
+  }
+]

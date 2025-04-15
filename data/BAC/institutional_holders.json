@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "Berkshire Hathaway, Inc",
+    "pctHeld": 0.089499995,
+    "Shares": 680233587,
+    "Value": 26083557723,
+    "pctChange": -0.1472
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "Vanguard Group Inc",
+    "pctHeld": 0.0865,
+    "Shares": 657834864,
+    "Value": 25224678663,
+    "pctChange": -0.0033000002
+  },
+  {
+    "index": 2,
+    "Date Reported": "2024-12-31",
+    "Holder": "Blackrock Inc.",
+    "pctHeld": 0.0687,
+    "Shares": 522691367,
+    "Value": 20042601105,
+    "pctChange": 0.0374
+  },
+  {
+    "index": 3,
+    "Date Reported": "2024-12-31",
+    "Holder": "State Street Corporation",
+    "pctHeld": 0.0388,
+    "Shares": 294818145,
+    "Value": 11304802129,
+    "pctChange": 0.0211
+  },
+  {
+    "index": 4,
+    "Date Reported": "2024-12-31",
+    "Holder": "FMR, LLC",
+    "pctHeld": 0.0254,
+    "Shares": 193353875,
+    "Value": 7414154572,
+    "pctChange": 0.0145000005
+  },
+  {
+    "index": 5,
+    "Date Reported": "2024-12-31",
+    "Holder": "JPMORGAN CHASE & CO",
+    "pctHeld": 0.0223,
+    "Shares": 169883556,
+    "Value": 6514185162,
+    "pctChange": 0.1371
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "Geode Capital Management, LLC",
+    "pctHeld": 0.0187,
+    "Shares": 142289199,
+    "Value": 5456079509,
+    "pctChange": 0.0145000005
+  },
+  {
+    "index": 7,
+    "Date Reported": "2024-12-31",
+    "Holder": "Morgan Stanley",
+    "pctHeld": 0.0165,
+    "Shares": 125205762,
+    "Value": 4801015096,
+    "pctChange": 0.0517
+  },
+  {
+    "index": 8,
+    "Date Reported": "2024-12-31",
+    "Holder": "Price (T.Rowe) Associates Inc",
+    "pctHeld": 0.0161,
+    "Shares": 122437422,
+    "Value": 4694863096,
+    "pctChange": 0.10560001
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-12-31",
+    "Holder": "NORGES BANK",
+    "pctHeld": 0.0156,
+    "Shares": 118930358,
+    "Value": 4560384722,
+    "pctChange": -0.0324
+  }
+]

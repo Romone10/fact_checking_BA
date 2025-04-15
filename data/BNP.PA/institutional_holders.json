@@ -1,0 +1,29 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "Pacer Advisors, Inc.",
+    "pctHeld": 0.0,
+    "Shares": 13522,
+    "Value": 954382,
+    "pctChange": -0.0252
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "Paradigm Asset Management Company, LLC",
+    "pctHeld": 0.0,
+    "Shares": 775,
+    "Value": 54699,
+    "pctChange": -0.9458
+  },
+  {
+    "index": 2,
+    "Date Reported": "2024-12-31",
+    "Holder": "Cyrus J. Lawrence, LLC",
+    "pctHeld": 0.0,
+    "Shares": 1000,
+    "Value": 70580,
+    "pctChange": 0.0
+  }
+]

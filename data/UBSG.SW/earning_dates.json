@@ -1,0 +1,74 @@
+[
+  {
+    "Earnings Date": "2026-02-02",
+    "EPS Estimate": NaN,
+    "Reported EPS": NaN,
+    "Surprise(%)": NaN
+  },
+  {
+    "Earnings Date": "2025-10-29",
+    "EPS Estimate": NaN,
+    "Reported EPS": NaN,
+    "Surprise(%)": NaN
+  },
+  {
+    "Earnings Date": "2025-07-30",
+    "EPS Estimate": NaN,
+    "Reported EPS": NaN,
+    "Surprise(%)": NaN
+  },
+  {
+    "Earnings Date": "2025-04-30",
+    "EPS Estimate": NaN,
+    "Reported EPS": NaN,
+    "Surprise(%)": NaN
+  },
+  {
+    "Earnings Date": "2025-02-04",
+    "EPS Estimate": 0.3,
+    "Reported EPS": 0.23,
+    "Surprise(%)": -23.59
+  },
+  {
+    "Earnings Date": "2024-10-30",
+    "EPS Estimate": 0.35,
+    "Reported EPS": 0.43,
+    "Surprise(%)": 24.64
+  },
+  {
+    "Earnings Date": "2024-08-14",
+    "EPS Estimate": 0.3,
+    "Reported EPS": 0.34,
+    "Surprise(%)": 14.09
+  },
+  {
+    "Earnings Date": "2024-05-07",
+    "EPS Estimate": 0.26,
+    "Reported EPS": 0.52,
+    "Surprise(%)": 101.55
+  },
+  {
+    "Earnings Date": "2024-02-06",
+    "EPS Estimate": 0.14,
+    "Reported EPS": -0.51,
+    "Surprise(%)": -475.0
+  },
+  {
+    "Earnings Date": "2023-11-07",
+    "EPS Estimate": 0.17,
+    "Reported EPS": -0.24,
+    "Surprise(%)": -239.53
+  },
+  {
+    "Earnings Date": "2023-08-31",
+    "EPS Estimate": 0.33,
+    "Reported EPS": -0.02,
+    "Surprise(%)": -104.8
+  },
+  {
+    "Earnings Date": "2023-04-25",
+    "EPS Estimate": 0.52,
+    "Reported EPS": 0.32,
+    "Surprise(%)": -38.81
+  }
+]

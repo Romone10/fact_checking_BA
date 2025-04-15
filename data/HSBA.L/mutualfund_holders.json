@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2025-01-31",
+    "Holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+    "pctHeld": 0.014400001,
+    "Shares": 255042575,
+    "Value": 199825857512,
+    "pctChange": -0.013200001
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+    "pctHeld": 0.0089,
+    "Shares": 157368962,
+    "Value": 123298581727,
+    "pctChange": -0.0063
+  },
+  {
+    "index": 2,
+    "Date Reported": "2025-02-28",
+    "Holder": "iShares Trust-iShares Core MSCI EAFE ETF",
+    "pctHeld": 0.0064,
+    "Shares": 113018403,
+    "Value": 88549918750,
+    "pctChange": -0.0178
+  },
+  {
+    "index": 3,
+    "Date Reported": "2025-01-31",
+    "Holder": "Goldman Sachs TRT II-Goldman Sachs GQG Part. Intl Opportunities Fd.",
+    "pctHeld": 0.0047,
+    "Shares": 83643225,
+    "Value": 65534466787,
+    "pctChange": 0.0687
+  },
+  {
+    "index": 4,
+    "Date Reported": "2025-03-31",
+    "Holder": "iShares Trust-iShares MSCI EAFE ETF",
+    "pctHeld": 0.0034,
+    "Shares": 59421388,
+    "Value": 46556657498,
+    "pctChange": -0.00090000004
+  },
+  {
+    "index": 5,
+    "Date Reported": "2025-02-28",
+    "Holder": "Fidelity Concord Street Trust-Fidelity International Index Fund",
+    "pctHeld": 0.0033000002,
+    "Shares": 57550869,
+    "Value": 45091105861,
+    "pctChange": 0.0057
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "CAPITAL WORLD GROWTH & INCOME FUND",
+    "pctHeld": 0.0031,
+    "Shares": 55207335,
+    "Value": 43254946972,
+    "pctChange": 0.0
+  },
+  {
+    "index": 7,
+    "Date Reported": "2025-02-28",
+    "Holder": "iShares Trust-iShares MSCI EAFE Value ETF",
+    "pctHeld": 0.0023999999,
+    "Shares": 42270786,
+    "Value": 33119160831,
+    "pctChange": -0.0196
+  },
+  {
+    "index": 8,
+    "Date Reported": "2024-11-30",
+    "Holder": "SCHWAB STRATEGIC TRUST-Schwab International Equity ETF",
+    "pctHeld": 0.0021,
+    "Shares": 36744248,
+    "Value": 28789118308,
+    "pctChange": 0.0166
+  },
+  {
+    "index": 9,
+    "Date Reported": "2025-01-31",
+    "Holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
+    "pctHeld": 0.0021,
+    "Shares": 36633575,
+    "Value": 28702406012,
+    "pctChange": -0.006
+  }
+]

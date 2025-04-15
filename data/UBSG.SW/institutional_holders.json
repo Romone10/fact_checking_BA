@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "NORGES BANK",
+    "pctHeld": 0.0529,
+    "Shares": 183111351,
+    "Value": 4248183482,
+    "pctChange": 0.0881
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "UBS Group AG",
+    "pctHeld": 0.0444,
+    "Shares": 153584812,
+    "Value": 3563167755,
+    "pctChange": -0.0121
+  },
+  {
+    "index": 2,
+    "Date Reported": "2024-12-31",
+    "Holder": "Vanguard Group Inc",
+    "pctHeld": 0.0369,
+    "Shares": 127886868,
+    "Value": 2966975435,
+    "pctChange": 0.010199999
+  },
+  {
+    "index": 3,
+    "Date Reported": "2024-12-31",
+    "Holder": "Massachusetts Financial Services Co.",
+    "pctHeld": 0.0235,
+    "Shares": 81211535,
+    "Value": 1884107673,
+    "pctChange": -0.11
+  },
+  {
+    "index": 4,
+    "Date Reported": "2024-12-31",
+    "Holder": "Dodge & Cox Inc",
+    "pctHeld": 0.0212,
+    "Shares": 73497042,
+    "Value": 1705131430,
+    "pctChange": 0.0017
+  },
+  {
+    "index": 5,
+    "Date Reported": "2024-12-31",
+    "Holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
+    "pctHeld": 0.0212,
+    "Shares": 73530280,
+    "Value": 1705902552,
+    "pctChange": -0.0293
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "FMR, LLC",
+    "pctHeld": 0.016,
+    "Shares": 55533620,
+    "Value": 1288380026,
+    "pctChange": 0.2938
+  },
+  {
+    "index": 7,
+    "Date Reported": "2024-12-31",
+    "Holder": "Zurcher Kantonalbank (Zurich Cantonalbank)",
+    "pctHeld": 0.0148,
+    "Shares": 51379092,
+    "Value": 1191994973,
+    "pctChange": -0.1041
+  },
+  {
+    "index": 8,
+    "Date Reported": "2024-12-31",
+    "Holder": "Cevian Capital II Gp Ltd",
+    "pctHeld": 0.0126,
+    "Shares": 43787401,
+    "Value": 1015867736,
+    "pctChange": 0.0
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-12-31",
+    "Holder": "Capital World Investors",
+    "pctHeld": 0.0108,
+    "Shares": 37428808,
+    "Value": 868348374,
+    "pctChange": -0.0495
+  }
+]

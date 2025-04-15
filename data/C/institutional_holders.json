@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "Vanguard Group Inc",
+    "pctHeld": 0.0884,
+    "Shares": 166473946,
+    "Value": 10919025508,
+    "pctChange": -0.0067000003
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "Blackrock Inc.",
+    "pctHeld": 0.087,
+    "Shares": 163790161,
+    "Value": 10742996060,
+    "pctChange": 0.003
+  },
+  {
+    "index": 2,
+    "Date Reported": "2024-12-31",
+    "Holder": "State Street Corporation",
+    "pctHeld": 0.0444,
+    "Shares": 83527749,
+    "Value": 5478584751,
+    "pctChange": 0.0222
+  },
+  {
+    "index": 3,
+    "Date Reported": "2024-12-31",
+    "Holder": "Geode Capital Management, LLC",
+    "pctHeld": 0.0216,
+    "Shares": 40587155,
+    "Value": 2662111347,
+    "pctChange": 0.0167
+  },
+  {
+    "index": 4,
+    "Date Reported": "2024-12-31",
+    "Holder": "Price (T.Rowe) Associates Inc",
+    "pctHeld": 0.020499999,
+    "Shares": 38561690,
+    "Value": 2529261105,
+    "pctChange": 0.0216
+  },
+  {
+    "index": 5,
+    "Date Reported": "2024-12-31",
+    "Holder": "FMR, LLC",
+    "pctHeld": 0.0183,
+    "Shares": 34362176,
+    "Value": 2253814998,
+    "pctChange": 0.29680002
+  },
+  {
+    "index": 6,
+    "Date Reported": "2024-12-31",
+    "Holder": "Franklin Resources, Inc.",
+    "pctHeld": 0.0174,
+    "Shares": 32832063,
+    "Value": 2153454891,
+    "pctChange": 0.0934
+  },
+  {
+    "index": 7,
+    "Date Reported": "2024-12-31",
+    "Holder": "Capital World Investors",
+    "pctHeld": 0.0167,
+    "Shares": 31352582,
+    "Value": 2056415738,
+    "pctChange": 4.5516
+  },
+  {
+    "index": 8,
+    "Date Reported": "2024-12-31",
+    "Holder": "Fisher Asset Management, LLC",
+    "pctHeld": 0.0159,
+    "Shares": 30014183,
+    "Value": 1968630153,
+    "pctChange": 0.036
+  },
+  {
+    "index": 9,
+    "Date Reported": "2024-12-31",
+    "Holder": "Morgan Stanley",
+    "pctHeld": 0.0152,
+    "Shares": 28543907,
+    "Value": 1872194755,
+    "pctChange": 0.1091
+  }
+]

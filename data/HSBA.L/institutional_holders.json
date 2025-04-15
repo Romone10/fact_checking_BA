@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "Date Reported": "2024-12-31",
+    "Holder": "Gamma Investing LLC",
+    "pctHeld": 0.0,
+    "Shares": 8064,
+    "Value": 6318144,
+    "pctChange": 3.7716
+  },
+  {
+    "index": 1,
+    "Date Reported": "2024-12-31",
+    "Holder": "Paradigm Asset Management Company, LLC",
+    "pctHeld": 0.0,
+    "Shares": 101900,
+    "Value": 79838650,
+    "pctChange": 0.1076
+  }
+]
